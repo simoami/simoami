@@ -1,6 +1,6 @@
 ### Hi, I'm Simo
 
-I'm a Senior Solutions Architect in New York. I help teams work out where AI fits, then prototype working AI workloads that prove it before anyone commits to a roadmap.
+I'm a Senior Solutions Architect in New York. I've spent years turning business problems into system designs, and lately my focus is AI: working out where it fits, then prototyping working AI workloads that prove feasibility before anyone commits to a roadmap.
 
 - Lately I've been building agentic document pipelines with PII de-identification and human review.
 - I have experience building multi-tenant architectures.
